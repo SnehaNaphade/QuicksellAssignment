@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.idname {
+  color: grey;
+  font-weight: light;
+  margin-bottom: 5px;
+}
+.card p {
+  color: grey;
+  margin-top: 5px;
+}
+.title {
+  font-size: 1rem;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-weight: bold;
+  color: #3b3a3f;
+}
